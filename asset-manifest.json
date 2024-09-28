@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PinCode/static/css/main.bf8bcfb6.css",
+    "main.js": "/PinCode/static/js/main.74fc553d.js",
+    "static/js/453.64f33339.chunk.js": "/PinCode/static/js/453.64f33339.chunk.js",
+    "index.html": "/PinCode/index.html",
+    "main.bf8bcfb6.css.map": "/PinCode/static/css/main.bf8bcfb6.css.map",
+    "main.74fc553d.js.map": "/PinCode/static/js/main.74fc553d.js.map",
+    "453.64f33339.chunk.js.map": "/PinCode/static/js/453.64f33339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf8bcfb6.css",
+    "static/js/main.74fc553d.js"
+  ]
+}
